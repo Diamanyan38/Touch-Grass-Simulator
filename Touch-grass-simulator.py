@@ -1,0 +1,1 @@
+print("Hi! Welcome to Touch Grass Simulator! The goal is simple: You have to touch grass and get upgrades. Hope you enjoy.")
