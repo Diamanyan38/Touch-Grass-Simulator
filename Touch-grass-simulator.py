@@ -1,1 +1,17 @@
-print("Hi! Welcome to Touch Grass Simulator! The goal is simple: You have to touch grass and get upgrades. Hope you enjoy.")
+import arcade
+
+# Set screen size
+SCREEN_WIDTH = 600
+SCREEN_HEIGHT = 600
+
+arcade.open_window(SCREEN_WIDTH, SCREEN_HEIGHT, "Touch grass simulator")
+
+arcade.set_background_color(arcade.color.BLUE)
+
+arcade.start_render()
+
+# write code
+
+arcade.finish_render()
+
+arcade.run()
